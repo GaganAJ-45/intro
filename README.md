@@ -57,6 +57,10 @@ Built a Python CLI tool that automates trading strategies on Binance Futures Tes
 **Stack:** Python 3.8+ · python-binance · Click  
 **Highlights:** API automation · CLI design · financial data handling
 
+### 💼 [Portfolio Website](https://gaganaj-45.github.io/gaganaj-portfolio-v2/)
+Personal portfolio showcasing projects and technical capabilities  
+**Stack:** Modern web stack with SEO optimization
+
 
 
 ---
