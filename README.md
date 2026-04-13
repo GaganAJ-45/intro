@@ -1,121 +1,88 @@
-##                      Hi👋, I'm Gagan A J
-## 
-                            Just Another Problem Solver
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gagan__aj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gagan-a-j) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaganaj45@gmail.com) 
+#  Hi👋, I'm Gagan A J
+
+**Data Analyst & Software Developer** · Bengaluru, India
+
+*Fresher passionate about turning data into decisions and building AI-powered products.*
+*Open to Data Analyst / Data Engineer roles.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gagan-a-j)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://gaganaj-45.github.io/gaganaj-portfolio-v2/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaganaj45@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gagan__aj)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👋 About Me
+
+I'm a fresher developer based in Bengaluru with hands-on experience in data analysis, SQL, Python, and building full-stack applications. I enjoy working at the intersection of data and product — extracting insights from messy datasets and shipping tools that make those insights usable.
+
+- 🔭 Currently building AI-powered products and sharpening my data engineering skills
+- 🤖 Experienced with LLM APIs (Claude, OpenAI Codex) and automation tools (n8n, Retell AI)
+- 💬 Ask me about Python, PostgreSQL, Power BI, or building with AI APIs
+
+---
+
+## 🗂️ Featured Projects
 
 ### 🌟 [Aurora Roastery](https://github.com/GaganAJ-45/aurora-roastery)
-Premium coffee e-commerce platform with AI-powered mood-based drink recommendations
-- **Tech Stack**: Next.js 14, TypeScript, React, Tailwind CSS, Framer Motion
-- **Backend**: Prisma ORM, PostgreSQL, NextAuth.js
-- **AI Integration**: Anthropic Claude API for intelligent recommendations
-- **Features**: Cinematic scroll-linked animations, responsive design, full-stack e-commerce
+> Premium coffee e-commerce platform with AI-powered, mood-based product recommendations
+
+Built a full-stack e-commerce app where the recommendation engine calls the Claude API to match users to products based on their current mood/preferences. Designed the database schema, REST API, and frontend from scratch.
+
+**Stack:** Next.js 14 · TypeScript · Prisma · PostgreSQL · Claude API  
+**Highlights:** AI integration · relational DB design · end-to-end full-stack ownership
+
+---
 
 ### 🤖 [Binance Trading Bot](https://github.com/GaganAJ-45/Binance-Trading-Bot)
-CLI-based Binance Futures Testnet trading bot with modular architecture
-- **Tech Stack**: Python 3.8+, python-binance, Click
-- **Features**: Structured logging, modular design, CLI interface
-- **Purpose**: Automated trading strategy execution on testnet
+> CLI-based automated trading bot for Binance Futures Testnet
+
+Built a Python CLI tool that automates trading strategies on Binance Futures Testnet. Focused on clean command-line UX and reliable API integration.
+
+**Stack:** Python 3.8+ · python-binance · Click  
+**Highlights:** API automation · CLI design · financial data handling
+
+---
 
 ### 💼 [Portfolio Website](https://gaganaj-45.github.io/gaganaj-portfolio-v2/)
-Personal portfolio showcasing technical capabilities and projects
-- **Tech Stack**: Modern web stack with premium design focus
-- **Hosted**: GitHub Pages
-- **SEO**: Optimized with Google Search Console integration
+> Personal portfolio showcasing projects and technical capabilities
+
+**Stack:** HTML · CSS · JavaScript · SEO optimization
 
 ---
-
 ## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
-### Languages & Core Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat-square&logo=framer&logoColor=blue)
-
-### Backend & Databases
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-
-### Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-
-### Design & Other Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-
----
 
 ## 🎯 Skills & Expertise
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)](https://matplotlib.org/) [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Neon](https://img.shields.io/badge/Neon-000000?style=flat-square&logo=neon&logoColor=white)](https://neon.tech/) [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/) [![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
-### 📊 Data Visualization
-- **Power BI** - Interactive dashboards and business intelligence
-- **Matplotlib** - Python data visualization and plotting
-- **Excel** - Advanced analytics with Power Query, Power Pivot, DAX
-
-### 🗄️ Databases
-- **PostgreSQL** - Relational database management and optimization
-- **MySQL** - Database design and query optimization
-- **Neon Database** - Serverless PostgreSQL for modern applications
-- **Microsoft SQL Server** - Enterprise database solutions
-
-### 💻 Programming & Data Tools
-- **Python** - Pandas, NumPy, Matplotlib for data analysis and manipulation
-- **SQL** - Complex queries, optimization, and database management
-- **Excel** - Power Query, Power Pivot, DAX for advanced analytics
-
-### 🧠 Soft Skills
-- Strategic Thinking
-- Effective Communication
-- Problem-Solving
-
----
 
 ## 🤖 AI & Automation
-
-**Exploring AI tools and automation to build smarter data pipelines, dashboards, and intelligent workflows**
-
-### AI Assistants & Agents
-| Tool | Status | Use Case |
-|------|--------|----------|
-| **ChatGPT** | Using | Data analysis support, SQL optimization, documentation, workflow automation |
-| **Claude (Anthropic)** | Using | Advanced reasoning, documentation, code understanding, structured problem-solving |
-| **HuskyVoice Agent** | Exploring | Voice-based AI agent experimentation and conversational workflows |
-| **Retell AI** | Learning | Building and testing AI voice agents for automated interactions |
-
-### Automation & Workflow Tools
-| Tool | Status | Use Case |
-|------|--------|----------|
-| **n8n** | Exploring | Workflow automation, API orchestration, task automation with AI integrations |
-| **Tabbly** | Learning | Automating tabular data handling and productivity workflows |
-| **Antigravity** | Using | AI-assisted development for rapid prototyping and experimental workflows |
-
-### Data & ML Platforms
-| Tool | Status | Use Case |
-|------|--------|----------|
-| **Kaggle** | Using | Dataset exploration, EDA, and applied machine learning practice |
-| **AI-assisted Analytics** | Using | Enhanced data cleaning, feature understanding, and insight generation |
-
-### Developer Productivity
-| Tool | Status | Use Case |
-|------|--------|----------|
-| **Codex** | Using | AI-powered coding assistant for generating, debugging, and optimizing code |
-| **Cursor** | Using | AI-powered code editor for faster Python, SQL, and analytics development |
-| **AI Code Assistants** | Using | Debugging, refactoring, and ETL pipeline optimization |
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com/) [![Claude](https://img.shields.io/badge/Claude-181818?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/) [![HuskyVoice](https://img.shields.io/badge/HuskyVoice-4A90E2?style=flat-square&logo=voice&logoColor=white)](https://www.husky.ai/) [![Retell AI](https://img.shields.io/badge/Retell_AI-FF6B6B?style=flat-square&logo=ai&logoColor=white)](https://retellai.com/) [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/) [![Tabbly](https://img.shields.io/badge/Tabbly-4285F4?style=flat-square&logo=google&logoColor=white)](https://tabbly.com/) [![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=rocket&logoColor=white)](https://antigravity.com/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/) [![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/blog/openai-codex) [![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.sh/)
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=GaganAJ-45&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GaganAJ-45&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaganAJ-45&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GaganAJ-45&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GaganAJ-45&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=GaganAJ-45&theme=aura&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaganAJ-45&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=GaganAJ-45&icon=0&color=5)](https://visitcount.itsvg.in)
+## 🔝 Top Contributed Repos
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=GaganAJ-45&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+
+---
