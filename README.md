@@ -2,7 +2,30 @@
 
 #  Hi👋, I'm Gagan A J
 
-**Data Analyst & Software Developer** · Bengaluru, India
+<style>
+  @keyframes typewriter {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+  
+  @keyframes blink {
+    from { border-right-color: rgba(0,0,0,0.75); }
+    to { border-right-color: transparent; }
+  }
+  
+  .typewriter {
+    display: inline-block;
+    overflow: hidden;
+    border-right: 3px solid;
+    white-space: nowrap;
+    animation: typewriter 3.5s steps(36, end), blink 0.75s step-end infinite;
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 0.05em;
+  }
+</style>
+
+<span class="typewriter">Data Analyst & Software Developer</span> · Bengaluru, India
 
 *Fresher passionate about turning data into decisions and building AI-powered products.*
 *Open to Data Analyst / Data Engineer roles.*
@@ -25,7 +48,7 @@ I'm a fresher developer based in Bengaluru with hands-on experience in data anal
 - 💬 Ask me about Python, PostgreSQL, Power BI, or building with AI APIs
 ---
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
 
 ## 🎯 Skills & Expertise
@@ -36,7 +59,6 @@ I'm a fresher developer based in Bengaluru with hands-on experience in data anal
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com/) [![Claude](https://img.shields.io/badge/Claude-181818?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/) [![HuskyVoice](https://img.shields.io/badge/HuskyVoice-4A90E2?style=flat-square&logo=voice&logoColor=white)](https://www.husky.ai/) [![Retell AI](https://img.shields.io/badge/Retell_AI-FF6B6B?style=flat-square&logo=ai&logoColor=white)](https://retellai.com/) [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/) [![Tabbly](https://img.shields.io/badge/Tabbly-4285F4?style=flat-square&logo=google&logoColor=white)](https://tabbly.com/) [![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=rocket&logoColor=white)](https://antigravity.com/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/) [![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/blog/openai-codex) [![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.sh/)
 
 ---
-
 ## 🗂️ Featured Projects
 
 ### 🌟 [Aurora Roastery](https://github.com/GaganAJ-45/aurora-roastery)
@@ -57,29 +79,65 @@ Built a Python CLI tool that automates trading strategies on Binance Futures Tes
 **Stack:** Python 3.8+ · python-binance · Click  
 **Highlights:** API automation · CLI design · financial data handling
 
-### 💼 [Portfolio Website](https://gaganaj-45.github.io/gaganaj-portfolio-v2/)
-Personal portfolio showcasing projects and technical capabilities  
-**Stack:** Modern web stack with SEO optimization
-
-
-
 ---
+
+### 💼 [Portfolio Website](https://gaganaj-45.github.io/gaganaj-portfolio-v2/)
+> Personal portfolio showcasing projects and technical capabilities
+
+**Stack:** HTML · CSS · JavaScript · SEO optimization
+
+
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GaganAJ-45&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=GaganAJ-45&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width:100%; border-radius: 10px; margin-bottom: 20px;">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=GaganAJ-45&theme=aura&hide_border=false)
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GaganAJ-45&theme=aura&hide_border=false" alt="GitHub Streak" style="max-width: 100%; border-radius: 10px;">
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaganAJ-45&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganAJ-45&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="max-width:100%; border-radius: 10px;">
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🔝 Top Repositories
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=GaganAJ-45&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+<div align="center">
+
+[![Repos](https://img.shields.io/badge/View%20All%20Repos-GitHub-181717?style=flat-square&logo=github)](https://github.com/GaganAJ-45?tab=repositories)
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🌟 <a href="https://github.com/GaganAJ-45/aurora-roastery">Aurora Roastery</a></h3>
+      <p>Full-stack e-commerce platform with Claude AI-powered mood-based recommendations</p>
+      <p><strong>Stack:</strong> Next.js 14 · TypeScript · Prisma · PostgreSQL · Claude API</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🤖 <a href="https://github.com/GaganAJ-45/Binance-Trading-Bot">Binance Trading Bot</a></h3>
+      <p>Python CLI tool for automated trading on Binance Futures Testnet</p>
+      <p><strong>Stack:</strong> Python · python-binance · Click</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>💼 <a href="https://gaganaj-45.github.io/gaganaj-portfolio-v2/">Portfolio Website</a></h3>
+      <p>SEO-optimized personal portfolio showcasing projects and skills</p>
+      <p><strong>Stack:</strong> HTML · CSS · JavaScript · SEO</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>👨‍💻 <a href="https://github.com/GaganAJ-45">All Projects</a></h3>
+      <p>Explore more repositories and contributions on GitHub</p>
+      <p><strong>View my complete repository collection</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
