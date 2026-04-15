@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi👋, I'm Gagan A J
+##  Hi👋, I'm Gagan A J
 
 <style>
   @keyframes typewriter {
